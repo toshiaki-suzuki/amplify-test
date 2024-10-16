@@ -1,0 +1,15 @@
+{
+  "name": "amplify-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-amplify/cli-extensibility-helper": "^3.0.34",
+    "aws-cdk-lib": "^2.160.0"
+  }
+}
